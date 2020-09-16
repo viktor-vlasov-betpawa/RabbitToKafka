@@ -6,3 +6,6 @@ build
 
 # IDEA
 .idea
+
+# Vim
+*.sw*
