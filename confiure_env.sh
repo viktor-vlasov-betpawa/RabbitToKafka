@@ -2,3 +2,4 @@ export RABBIT_TO_KAFKA_RABBIT_QUEUE=rn.tanzania.betslips
 export RABBIT_TO_KAFKA_KAFKA_TOPIC=regulatory-notification-event
 export RABBIT_TO_KAFKA_RABBIT_URI=amqp://guest:guest@rabbitmq:5672
 export RABBIT_TO_KAFKA_KAFKA_PRODUCER_PROPERTIES=kafka_producer.properties
+export RABBIT_TO_KAFKA_MESSAGES_TO_PROCESS=10
